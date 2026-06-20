@@ -1,4 +1,4 @@
-# Noche de promesas dulces
+# Noche de promesas dulces, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Noche de promesas dulces |
+| **Title** | Noche de promesas dulces, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-promesas-dulces/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche de promesas dulces](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-promesas-dulces/) |
+| **Get License** | [Music Rights & Licensing for Noche de promesas dulces, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-promesas-dulces/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bebé, la luna sabe que te tengo en la mente
+> You got that fire, burning up the club tonight
+> Con una mirada me tienes impaciente
+> Ven dímelo al oído, mami, make it right
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `7e14ae1b6676d99d5c5c2c3889668d8df9a765fdfe464b66bc54233118159e4a` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

@@ -1,6 +1,6 @@
 # License
 
-**Noche de promesas dulces**
+**Noche de promesas dulces, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
